@@ -1,1 +1,0 @@
-*insira aqui a sua chave da API para o openweather*
